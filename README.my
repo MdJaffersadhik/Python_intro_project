@@ -1,0 +1,12 @@
+This project is a simple Python program that asks the user for:
+1.Name
+2.Age
+3.Hobby
+4.City
+5.Favorite Food
+Then it displays a friendly introduction message using the user’s input.
+Features used :
+1.Uses input() to get information
+2.Stores user responses in variables
+3.Uses f-strings to format output
+4.Includes validation to prevent empty input
