@@ -1,6 +1,6 @@
 # Personal Introduction Program
 
-print("👋 Welcome! Let's create your personal introduction.\n")
+print("Hello World \n")
 
 # Asking questions with validation
 name = ""
@@ -42,3 +42,4 @@ print(f"You live in {city} and your favorite food is {fav_food}.")
 print("========================================\n")
 
 print("Thanks for sharing! Keep coding and exploring. 💡")
+
